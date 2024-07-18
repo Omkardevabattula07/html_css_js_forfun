@@ -3,6 +3,8 @@ div{
 height: 100px;
 width: 100px;
 background-image: url('image1.jpeg');
+display: flex;
+
 
 }
 
@@ -29,5 +31,6 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 
 }
