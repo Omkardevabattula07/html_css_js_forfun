@@ -13,7 +13,7 @@ background-image: url('image1.jpeg');
     border: 8px solid yellow;
     border-radius: 50%;
     border-top: 8px solid blue;
-    animation: hello 5s ease-in-out 0s infinite normal ;
+    animation: hello 3s ease-in-out 0s infinite normal ;
 }
 @keyframes hello {
     from {
