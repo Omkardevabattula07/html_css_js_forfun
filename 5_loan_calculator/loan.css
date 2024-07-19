@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background:repeating-linear-gradient(green,yellow,blue,red);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.container{
+    background:linear-gradient(black,white,aqua);
+    display: flex;
+    margin: 20px 10px;
+    height: 90vh;
+    width: 80vh;
+    flex-direction: column;
+    justify-content: baseline;
+    align-items: baseline;
+    align-items: center;
+    position: absolute;
+    border-radius: 5px;
+    
+}
+p{
+    position: relative;
+    font-weight: 500;
+    width: 250px;
+}
+.input{
+    width: 100%;
+    color: slateblue;
+    border-radius: 3px;
+    height: 20px;
+}
+.payment{
+    font-weight: 600;
+    font-size: 20px;
+}
+h1{
+    color:rgb(204, 172, 68);
+}

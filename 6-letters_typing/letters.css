@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(141, 209, 96);
+    text-align: center;
+    justify-content: center;
+    margin: 3px 3px;
+    padding: 3px 3px;
+}
+.container{
+    height:95vh;
+    width: 95wh;
+    background:linear-gradient(aqua,lightblue, lightgreen);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(39, 39, 80);
+}
