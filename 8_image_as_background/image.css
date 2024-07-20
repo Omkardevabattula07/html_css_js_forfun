@@ -1,0 +1,12 @@
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-image: url('cat9.jpeg');
+    font-weight: 900;
+    font-size: 6em;
+    display: flex;
+    text-align: center;
+    background-size: cover;
+    background-clip: text;
+    --webkit-background-clip:text;
+    color: transparent;
+}
