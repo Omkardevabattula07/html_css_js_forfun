@@ -17,6 +17,8 @@ body{
     height: 250px;
     perspective: 1000px;
     border: 1px solid #f1f1f1;
+    border-radius: 15px;
+    overflow: hidden;
 }
 .filp-box-inner{
     position: relative;
@@ -40,6 +42,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    overflow: hidden;
 }
 .flip-box-front{
     background: linear-gradient(135deg,#f6d365 0%,#fda085 100%);
@@ -68,13 +71,25 @@ body{
     z-index: 1;
     transform: rotateY(180deg);
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
 }
 .flip-box-back h2{
     margin: 0;
+    color:#fda085 ;
     font-size: 24px;
 
 }
 .flip-box-back p{
-    margin-top: 10px;
+    margin: 10px;
+    display: inline;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
     font-size: 16px;
+    color: #72b920;
+    padding-right: 5px;
+
 }
