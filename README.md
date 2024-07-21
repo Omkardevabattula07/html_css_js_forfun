@@ -17,3 +17,10 @@ Here you can find the html and css js projects which is used here
 7-calender #you can see a  basic calender
 
 8-image_as_background #you can see a image as background for text 
+
+9-image_flip #you can see when you hover you can see the image background as its information
+
+10_image_popup #you can see when you hover an image it pop up
+
+11-video_popup #you can see a video player playing videos
+
