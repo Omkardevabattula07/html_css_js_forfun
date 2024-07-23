@@ -24,3 +24,7 @@ Here you can find the html and css js projects which is used here
 
 11-video_popup #you can see a video player playing videos
 
+12_traffic_lights #you can see the traffic lights which was on by buttons
+
+13_mouse_position #you can see the position of the mouse by this
+
