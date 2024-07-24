@@ -28,3 +28,6 @@ Here you can find the html and css js projects which is used here
 
 13_mouse_position #you can see the position of the mouse by this
 
+14_sections #you can see the content will change with the help od buttons
+
+15_to_do_list #you can see the todolist where you write your things
